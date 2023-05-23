@@ -37,7 +37,6 @@ body{
 }
 
 .portfolio_pic > h1 {
-    
     padding-left: 70px;
     margin-top: -70px;
     color: white;
@@ -68,7 +67,8 @@ body{
     font-size: 10px;
 }
 
-.about_container > h6 {
+.about_container > h6,
+.about_container > ul > li{
     color:  white;
     padding-top: 10px;
     padding-bottom: 10px;
